@@ -3,8 +3,8 @@ import pandas as pd
 import time
 
 # Configuración de API
-api_key = "yI2JN6jOeIjjy0XdoLuAqElcsGGNZNLvcQdwxIYKwVmRBWzdx8PxOV8vDoW9A0N3"
-api_secret = "3Ffwnib0FK6kU3Ec638t6CKMIsAAhGuCVpsiQijjr6qZyuPjXALAOqxdt9PvgR2U"
+api_key = ""
+api_secret = ""
 
 # Conexión con Binance
 exchange = ccxt.binance({
